@@ -10,7 +10,7 @@
 
 ## Description
 
-_This browser was created to practice using html by creating a webpage called Goodbye. This website contains 4 different languages saying goodbye friends!
+_This browser was created to practice using html by creating a webpage called Goodbye. This website contains 4 different languages saying goodbye friends!_
 
 ## Setup/Installation Requirements
 
